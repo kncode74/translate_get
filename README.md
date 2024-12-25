@@ -52,3 +52,13 @@ To display the translated text in the UI, I used text.tr inside the widget where
 ```dart
 Text('santa'.tr),
 ```
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/a94c02fb-481f-4ede-b582-304ac752a19e" width="23%" style="margin-bottom: 10px;" />
+  <img src="https://github.com/user-attachments/assets/b13704dd-33dc-492d-a08b-e8c7a148bd57" width="23%" style="margin-bottom: 10px;" />
+  <img src="https://github.com/user-attachments/assets/1210c1dc-d14b-4304-a29e-9aa1152ebd81" width="23%" style="margin-bottom: 10px;" />
+</div>
+
+
+
+
+
